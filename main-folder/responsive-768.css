@@ -1,0 +1,177 @@
+@media only screen and (min-width: 768px) {
+    header {
+        width: 100%;
+        color: #ffffff;
+        position: fixed;
+        padding: 0px 20px;
+        width: 100%;
+        /* background-color: #00aeff; */
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 66px;
+        z-index: 99;
+        align-items: center;
+        transition: 0.5s;
+    }
+
+    .header .logo h1 {
+        font-size: 50px;
+        font-weight: 900;
+    }
+
+    .header .call a {
+        text-decoration: none;
+        padding: 6px;
+        border-radius: 10px;
+        font-size: 15px;
+        font-weight: 800;
+        transition: 0.5s;
+    }
+
+    .header .call {
+        text-align: center;
+        line-height: 4;
+        width: 80px;
+    }
+
+    .banner .sub-banner .main-banner {
+        padding-top: 7%;
+        padding-left: 51px;
+    }
+
+    .banner .main-banner .heading h1 {
+        font-size: 37px;
+    }
+
+    .banner .main-banner .sub-heading p {
+        font-size: 16px;
+        padding: 20px 0px 0px;
+        padding-top: 3px;
+    }
+
+    .banner .main-banner .bttn button {
+        padding: 8px;
+        margin: 7px 5px;
+        font-size: 11px;
+    }
+
+    .banner .sub-banner .banner-img img {
+        width: 100%;
+        display: block;
+    }
+
+    .sec-1 .main-sec-1 .courses {
+        display: flex;
+        background-color: #0f0245;
+        box-shadow: #ffffff 0px 0px 20px;
+        padding: 0px;
+    }
+
+    .sec-1 .main-sec-1 .courses .div-1 h2 {
+        font-size: 11px;
+        color: #ffffff;
+    }
+
+    .sec-1 .main-sec-1 .courses .div-1 span {
+        font-weight: 600;
+        font-size: 8px;
+        line-height: 2.5;
+        color: #ffffff;
+    }
+
+    .sec-1 .main-sec-1 .courses .div-1 p {
+        font-size: 12px;
+        color: #ffffff;
+        margin: 10px 0px 40px;
+    }
+
+    .sec-1 .main-sec-1 .courses .div-1 a {
+        text-decoration: none;
+        color: #0c0133;
+        font-size: 10px;
+        background-color: #ffffff;
+        border-radius: 7px;
+        margin-left: 10px;
+        padding: 10px;
+        transition: 0.3s;
+    }
+
+    
+
+    .ready .main-ready {
+        padding: 45px 0px 0px;
+        height: 219px;
+    }
+    
+    .ready .main-ready h1 {
+        font-size: 20px;
+    }
+
+    .ready .main-ready p {
+        font-size: 18px;
+        margin-bottom: 32px;
+    }
+
+    .ready .main-ready a {
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #00044e;
+        padding: 10px;
+        font-size: 15px;
+        box-shadow: 0px 0px 10px #8a7bf8;
+    }
+
+    .sec-4 h1 {
+        font-size: 30px;
+        font-weight: 800;
+    }
+
+    .sec-4 .main-sec-4 .second-sec-4 .classes .online {
+        line-height: 3;
+        background-color: #00054d;
+        width: 242px;
+        padding-top: 31px;
+        padding-bottom: 29px;
+        margin-top: 20px;
+    }
+
+    .sec-5 .main-sec-5 .main-form form {
+        background-color: #000225;
+        padding: 24px;
+        margin-left: 0px;
+        width: 600px;
+    }
+
+    .sec-5 .main-sec-5 .form-1 h1 {
+        font-size: 35px;
+        color: #ffffff;
+        font-weight: 800;
+    }
+
+    .sec-5 .main-sec-5 .form-1 p {
+        text-align: left;
+        font-size: 20px;
+    }
+
+    .sec-5 .main-sec-5 .main-form form input {
+        width: 100%;
+        height: 45px;
+        box-shadow: 0px 0px 10px #ffffff;
+        background-color: rgb(255, 255, 255);
+        padding-left: 20px;
+        font-size: 14px;
+        margin-top: 30px;
+        color: #ffffff;
+    }
+    .sec-7 .sub-sec-7 .ead h1{
+        text-align: center;
+    }
+
+    .sec{
+        display: none;
+    }
+
+    .fix-side{
+        display: block;
+    }
+}

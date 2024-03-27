@@ -1,0 +1,394 @@
+@media only screen and (min-width: 600px){
+    header {
+        width: 100%;
+        color: #ffffff;
+        position: fixed;
+        padding: 0px 20px;
+        width: 100%;
+        /* background-color: #00aeff; */
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 51px;
+        z-index: 99;
+        align-items: center;
+        transition: 0.5s;
+    }
+
+    .header .navigation-bar nav ul {
+        display: none;
+    }
+
+    .header .logo h1 {
+        font-size: 40px;
+        font-weight: 900;
+    }
+
+    .header .call a {
+        text-decoration: none;
+        padding: 6px;
+        border-radius: 10px;
+        font-size: 11px;
+        font-weight: 800;
+        transition: 0.5s;
+    }
+
+    .header .call {
+        text-align: center;
+        line-height: 3;
+        width: 80px;
+    }
+
+
+
+
+
+
+    /* banner */
+    .banner .sub-banner .main-banner {
+        padding-top: 12%;
+        padding-left: 45px;
+    }
+
+    .banner .sub-banner .banner-img img {
+        width: 100%;
+        display: none;
+    }
+
+    .banner .main-banner .heading h1 {
+        font-size: 42px;
+    }
+
+    .banner .main-banner .sub-heading p {
+        font-size: 20px;
+        padding: 20px 0px 0px;
+        padding-top: 3px;
+    }
+
+    .banner .main-banner .bttn button {
+        padding: 8px;
+        margin: 7px 5px;
+        font-size: 12px;
+    }
+
+
+
+
+
+
+    /* sec-1 */
+    .sec-1 {
+        margin-bottom: 5%;
+        width: 100%;
+        padding: 0px;
+        background-image: none;
+    }
+
+    .sec-1 .main-sec-1 .courses {
+        display: block;
+        background-color: #0f0245;
+        box-shadow: #ffffff 0px 0px 20px;
+        padding: 0px;
+    }
+
+    .sec-1 .main-sec-1 .courses .div-1 {
+        text-align: left;
+        border-right: none;
+        padding: 20px 30px 35px;
+    }
+
+    .sec-1 .main-sec-1 .courses .div-1 h2 {
+        font-size: 20px;
+        color: #ffffff;
+    }
+
+
+
+
+
+
+
+    /* sec-2 */
+    .sec-2 .main-sec-2 .main-choose{
+        text-align: center;
+    }
+
+    .sec-2 .main-choose .sub-main-1 {
+        display: block;
+        width: 100%;
+        padding-top: 0px;
+    }
+
+    .sec-2 .main-choose .sub-main-1 .title h1 {
+        font-weight: 800;
+        font-size: 30px;
+    }
+
+    .sec-2 .main-choose .sub-main-1 .text {
+        width: auto;
+        align-items: center;
+        display: flex;
+    }
+
+    .sec-2 .main-choose .sub-main-1 .text p {
+        font-size: 14px;
+    }
+
+    .sec-2 .main-choose .sub-main-1 .choose-img-1 {
+        width: 100%;
+    }
+
+    .sec-2 .main-choose .sub-main-1 .main-contact-1 .sub-sub {
+        margin: 30px 0px;
+        background-color: #fff;
+        padding: 20px;
+        width: auto;
+        display: grid;
+    }
+
+    .sec-2 .main-choose .sub-main-1 .main-contact-1 .sub-sub span {
+        font-size: 15px;
+        font-weight: 700;
+        padding-left: 0px;
+    }
+
+    .sec-2 .main-choose .sub-main-1 .title {
+        width: auto;
+    }
+
+    .sec-2 .main-choose .sub-main-1 .main-contact-1 .sub-sub i {
+        margin: auto;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* ready */
+
+    .ready .main-ready {
+        padding: 45px 0px 0px;
+        height: 199px;
+    }
+
+    .ready .main-ready h1 {
+        font-size: 20px;
+    }
+
+    .ready .main-ready p {
+        font-size: 16px;
+        margin-bottom: 24px;
+    }
+
+    .ready .main-ready a {
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #00044e;
+        padding: 10px;
+        font-size: 13px;
+        border-radius: 8px;
+        box-shadow: 0px 0px 10px #8a7bf8;
+    }
+
+
+
+
+
+
+
+    /* sec-4 */
+    .sec-4 h1 {
+        font-size: 30px;
+        font-weight: 800;
+    }
+
+    .sec-4 .main-sec-4 .second-sec-4 .classes {
+        padding-left: 18px;
+    }
+
+    .sec-4 .main-sec-4 .first-sec-4 img {
+        width: 40%;
+    }
+
+    .sec-4 .main-sec-4 .second-sec-4 .classes .online {
+        line-height: 3;
+        background-color: #00054d;
+        width: 185px;
+        padding-top: 11px;
+        padding-bottom: 19px;
+        margin-top: 40px;
+    }   
+
+    .sec-4 .main-sec-4 .second-sec-4 .classes .online h1 {
+        color: #ffffff;
+        font-size: 19px;
+    }
+
+    .sec-4 .main-sec-4 .second-sec-4 .classes .online a {
+        color: #020747;
+        text-decoration: none;
+        background-color: #ffffff;
+        padding: 7px;
+        font-size: 12px;
+    }
+
+    /* sec */
+
+    .sec{
+        display: none;
+    }
+
+
+
+
+
+
+    /* placement */
+    .sec-3 {
+        display: none;
+    }
+
+
+
+
+
+
+    /* form */
+    .sec-5 .main-sec-5 .main-form .contact-img {
+        display: none;
+    }
+
+    
+.sec-5 .main-sec-5 .main-form {
+    margin-top: 0px;
+}
+
+.sec-5 .main-sec-5 .main-form form {
+    background-color: #000225;
+    padding: 24px;
+    margin-left: 0px;
+    width: 500px;
+}
+
+.sec-5 .main-sec-5 .form-1 h1 {
+    font-size: 50px;
+    color: #ffffff;
+    font-weight: 800;
+}
+
+.sec-5 .main-sec-5 .form-1 p {
+    text-align: left;
+    font-size: 16px;
+}
+
+.sec-5 .main-sec-5 .main-form form input {
+    width: 100%;
+    height: 42px;
+    box-shadow: 0px 0px 10px #ffffff;
+    background-color: rgb(255, 255, 255);
+    padding-left: 20px;
+    border: none;
+    font-size: 14px;
+    margin-top: 30px;
+    color: #ffffff;
+}
+
+.sec-5 .main-sec-5 .main-form form button {
+    width: 30%;
+    height: 50px;
+    margin-top: 30px;
+    font-size: 19px;
+    box-shadow: 0px 0px 10px #ffffff;
+}
+
+.sec-5 .main-sec-5 .main-form form input::placeholder {
+    color: #453793;
+}
+
+.sec-5 .main-sec-5 .main-form form textarea::placeholder {
+    color: #453793;
+}
+
+
+
+
+
+
+/* faq */
+.sec-7 .sub-sec-7 .ead h1 {
+    font-size: 25px;
+    font-weight: 800;
+    text-align: center;
+}
+.accordion-body{
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+/* back home */
+.hometo a {
+    background-color: #0c0133;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+/* footer */
+
+.sec-footer .sub-foot {
+    display: grid;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.sec-footer .sub-foot .sub-img {
+    width: 100%;
+}
+
+.sec-footer .respo img{
+    width: 100%;
+
+}
+
+.sub-foot h2 {
+    font-size: 20px;
+}
+
+.sub-foot p {
+    font-size: 15px;
+}
+
+.sub-foot .foot-1, .sub-foot .foot-2 {
+    margin-bottom: 20px;
+    margin-top: 4px;
+    justify-content: center;
+    display: grid;
+}
+
+.fix-side{
+    display: none;
+}
+}
